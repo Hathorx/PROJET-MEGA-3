@@ -1,0 +1,258 @@
+@media only screen and (min-width: 450px) and (max-width: 500px) {
+	header {
+		padding-left: 0px;
+
+		>div {
+			width: 117px;
+		}
+	}
+
+	.logo {
+		width: 93%;
+
+		img:nth-of-type(1) {
+			width: 100px;
+			margin-top: 23px;
+		}
+	}
+
+	.profile {
+		float: left;
+		margin-left: 10px;
+		width: 120px;
+	}
+
+	.loupe {
+		display: none;
+	}
+
+	.profile-section {
+		width: 100%;
+
+		img:nth-of-type(1) {
+			display: none;
+		}
+
+		p {
+			width: 64px;
+		}
+	}
+
+	.profile-section button {
+		position: absolute;
+	    right: 0;
+	    top: 15px;
+	    width: 50px;
+	    border: 0;
+	    padding-top: 8px;
+	    padding-bottom: 8px;
+	    border-radius: 30px 0px 0px 30px;
+	    background-color: white;
+	    cursor: pointer;
+
+		img:nth-of-type(1) {
+			width: 25px;
+			float: left;
+			display: block;
+			margin-top: 0;
+			margin-left: 10px;
+			padding-right: 0;
+		}
+	}
+
+	.abo {
+		display: none;
+	}
+
+	.aside {
+		display: none;
+	}
+
+	.container {
+		width: 100%;
+	}
+
+	.inter {
+		display: none;
+	}
+
+	.infos {
+		width: 95%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+		height: 1480px;
+	}
+
+	.play {
+		width: 95%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+	}
+
+	.localisation {
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+		width: 95%;
+		height: 315px;
+	}
+
+	.share {
+		width: 95%;
+		float: none;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.create {
+		width: 95%;
+		float: none;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.cover {
+		width: 100%;
+
+		>p {
+			margin-left: 15px;
+		}
+	}
+
+	.address {
+		width: 280px;
+		height: 250px;
+	}
+
+	.home {
+		height: 113px;
+
+		button {
+			margin-top: 10px;
+		}
+	}
+
+	.other {
+		height: 100px;
+
+		button {
+			margin-left: 0;
+			float: right;
+			padding: 15px 8px;
+			margin-right: 23px;
+			margin-top: 15px;
+		}
+	}
+
+	.img-cover button {
+		width: 200px;
+	}
+
+	.participation {
+		width: 100%;
+	}
+
+	.date {
+		width: 90%;
+		margin-right: auto;
+		margin-left: auto;
+
+		>p {
+			margin-left: 0;
+			font-size: 13px;
+		}
+	}
+
+	.time {
+		width: 90%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+
+		>p {
+			font-size: 13px;
+		}
+
+		p:nth-of-type(2) {
+			font-size: 13px;
+			margin-right: 0;
+		}
+	}
+
+	.validation {
+		width: 90%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+
+		>p {
+			font-size: 13px;
+		}
+
+		p:nth-of-type(2) {
+			font-size: 13px;
+			margin-right: 6px;
+		}
+	}
+
+	.cost {
+		width: 90%;
+		margin-right: auto;
+		margin-left: 19px;
+
+		>p {
+			font-size: 13px;
+		}
+	}
+
+	.base {
+		width: 100%;
+	}
+
+	.games {
+		width: 100%;
+	}
+
+	.game-1 {
+		width: 100%;
+		margin-right: 0;
+	}
+
+	.game-2 {
+		width: 100%;
+		margin-right: 0;
+	}
+
+	.participants {
+		display: none;
+	}
+
+	.play {
+		>p {
+			margin-left: 10px;
+		}
+	}
+
+	.collaborators {
+		display: none;
+	}
+
+	.account button {
+		margin-right: 10px;
+		padding: 15px 20px;
+	}
+
+	.create button {
+		width: 100%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+		margin-top: 25px;
+	}
+
+	.add {
+		margin-left: 18px;
+	}
+}

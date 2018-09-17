@@ -1,0 +1,323 @@
+@media only screen and (min-width: 280px) and (max-width: 450px) {
+	header {
+		padding-left: 0px;
+
+		>div {
+			width: 117px;
+		}
+	}
+
+	.logo {
+		width: 93%;
+
+		img:nth-of-type(1) {
+			width: 100px;
+			margin-top: 23px;
+		}
+	}
+
+	.profile {
+		float: left;
+		margin-left: 10px;
+		width: 120px;
+	}
+
+	.loupe {
+		display: none;
+	}
+
+	.profile-section {
+		width: 100%;
+
+		img:nth-of-type(1) {
+			display: none;
+		}
+
+		p {
+			width: 64px;
+		}
+	}
+
+	.profile-section button {
+		position: absolute;
+	    right: 0;
+	    top: 15px;
+	    width: 50px;
+	    border: 0;
+	    padding-top: 8px;
+	    padding-bottom: 8px;
+	    border-radius: 30px 0px 0px 30px;
+	    background-color: white;
+	    cursor: pointer;
+
+		img:nth-of-type(1) {
+			width: 25px;
+			float: left;
+			display: block;
+			margin-top: 0;
+			margin-left: 10px;
+			padding-right: 0;
+		}
+	}
+
+	.abo {
+		display: none;
+	}
+
+	.aside {
+		display: none;
+	}
+
+	.container {
+		width: 100%;
+	}
+
+	.inter {
+		display: none;
+	}
+
+	.infos {
+		width: 95%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+		height: 1470px;
+	}
+
+	.cover {
+		width: 100%;
+
+		>p {
+			margin-left: 15px;
+			font-size: 12px;
+		}
+	}
+
+	.img-cover button {
+		width: 200px;
+	}
+
+	.participation {
+		width: 100%;
+	}
+
+	.date {
+		width: 90%;
+		margin-right: auto;
+		margin-left: auto;
+
+		>p {
+			margin-left: 0;
+			font-size: 11px;
+		}
+	}
+
+	.time {
+		width: 90%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+
+		>p {
+			font-size: 11px;
+		}
+
+		p:nth-of-type(2) {
+			font-size: 11px;
+			margin-right: 0;
+		}
+	}
+
+	.validation {
+		width: 90%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+
+		>p {
+			font-size: 11px;
+		}
+
+		p:nth-of-type(2) {
+			font-size: 11px;
+			margin-right: 6px;
+		}
+	}
+
+	.cost {
+		width: 90%;
+		margin-right: auto;
+		margin-left: 11px;
+
+		>p {
+			font-size: 11px;
+		}
+	}
+
+	.base {
+		width: 100%;
+	}
+
+	.games {
+		width: 100%;
+	}
+
+	.game-1 {
+		width: 100%;
+		margin-right: 0;
+	}
+
+	.game-2 {
+		width: 100%;
+		margin-right: 0;
+	}
+
+	.participants {
+		display: none;
+	}
+
+	.pokemon {
+		display: none;
+	}
+
+	.play {
+		>p {
+			margin-left: 10px;
+		}
+	}
+
+	.add {
+		width: 80%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+	}
+
+	.collaborators {
+		display: none;
+	}
+
+	.play {
+		width: 95%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+	}
+
+	.localisation {
+		width: 95%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+		height: 330px;
+	}
+
+	.share {
+		width: 95%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+		height: 193px;
+	}
+
+	.account {
+		height: 100px;
+
+		button {
+			border: 1px solid #6f81a1;
+		    border-radius: 6px;
+		    float: right;
+		    margin-right: 9px;
+		    padding: 15px 49px;
+		    background-color: white;
+		    color: #6f81a1;
+		    font-weight: bold;
+		    cursor: pointer;
+		    margin-top: 10px;
+		}
+	}
+
+	.create {
+		width: 95%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+
+		button {
+		    width: 100%;
+		    float: right;
+		    margin-top: 20px;
+		    border: none;
+		    font-size: 14px;
+		    color: white;
+		    font-weight: bold;
+		    margin-bottom: 20px;
+		    padding: 18px 0;
+		    border-radius: 6px;
+		    background-color: #feb41c;
+		    cursor: pointer;
+		}
+	}
+
+	.address {
+		width: 160px;
+		height: 260px;
+	}
+
+	.loca {
+		p:nth-of-type(1) {
+			font-size: 11px;
+		}
+
+		p:nth-of-type(2) {
+			font-size: 11px;
+		}
+	}
+
+	.adresse {
+		p:nth-of-type(1) {
+			margin-top: 10px;
+		}
+
+		p {
+			font-size: 12px;
+			margin-top: 7px;
+		}
+	}
+
+	.home {
+		margin-left: 17px;
+		height: 136px;
+
+		button {
+		    border: 1px solid #6f81a1;
+		    border-radius: 6px;
+		    float: right;
+		    margin-right: 20px;
+		    margin-top: 10px;
+		    padding: 15px 29px;
+		    background-color: white;
+		    color: #6f81a1;
+		    font-weight: bold;
+		    cursor: pointer;
+		    font-size: 10px;
+		}
+	}
+
+	.other {
+		height: 91px;
+
+		button {
+		    border: 1px solid #6f81a1;
+			border-radius: 6px;
+			padding: 15px 3px;
+			margin-top: 10px;
+			background-color: white;
+			color: #6f81a1;
+			font-weight: bold;
+			margin-left: 0;
+			cursor: pointer;
+			font-size: 10px;
+		}
+	}
+}

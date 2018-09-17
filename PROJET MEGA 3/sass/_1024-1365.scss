@@ -1,0 +1,121 @@
+@media only screen and (min-width: 1024px) and (max-width: 1365px) {
+	.offer {
+		width: 544px;
+	}
+
+	.aside {
+		display: none;
+	}
+
+	.container {
+		width: 100%;
+		float: none;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.inter {
+		width: 95%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+	}
+
+	.infos {
+		width: 95%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+		height: 775px;
+	}
+
+	.cover {
+		width: 100%;
+	}
+
+	.game-1 {
+		width: 30.3%;
+	}
+
+	.game-2 {
+		width: 30.3%;
+	}
+
+	.participants {
+		width: 95%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+	}
+
+	.play {
+		width: 95%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+	}
+
+	.localisation {
+		width: 95%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+	}
+
+	.collaborators {
+		width: 95%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+	}
+
+	.share {
+		width: 95%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+	}
+
+	.create {
+		width: 95%;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+		
+		button {
+			width: 100%;
+		}
+	}
+
+	.date {
+		width: 89%;
+	}
+
+	.time {
+		width: 89%;
+
+		p:nth-of-type(2) {
+			margin-right: 0;
+		}
+	}
+
+	.validation {
+		width: 89%;
+
+		p:nth-of-type(2) {
+			margin-right: 10px;
+		}
+	}
+
+	.cost {
+		width: 89%;
+	}
+
+	.account button {
+		margin-right: 30px;
+	}
+
+	.games button {
+		cursor: pointer;
+	}
+}
